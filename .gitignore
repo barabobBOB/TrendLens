@@ -4,5 +4,5 @@ config
 .venv
 .idea
 
-dags/src/gcp/key/
-dags/src/crawling/datalake/data/
+src/gcp/key/
+src/crawling/datalake/data/
