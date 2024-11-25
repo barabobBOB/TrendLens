@@ -4,3 +4,9 @@ apache-airflow[celery,postgres,redis,crypto,api,async]==2.8.1
 # 문법
 pylint==3.3.1
 pydantic==2.9.2
+colorama
+
+xmltodict
+fastparquet
+pandas
+pyarrow
